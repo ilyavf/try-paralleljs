@@ -1,0 +1,26 @@
+{
+  "name": "try-paralleljs",
+  "version": "0.0.1",
+  "description": "Try ParallelJS library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilyavf/try-paralleljs.git"
+  },
+  "keywords": [
+    "paralleljs",
+    "javascript"
+  ],
+  "author": "IlyaVF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilyavf/try-paralleljs/issues"
+  },
+  "homepage": "https://github.com/ilyavf/try-paralleljs#readme",
+  "dependencies": {
+    "paralleljs": "^0.2.1"
+  }
+}
